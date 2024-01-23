@@ -21,3 +21,13 @@
 * Run the script
 
 * download .txt generated files
+
+# 🤖 SAP Bot :
+
+* In the .ps1 file, insert your GID and provide the path to the generated text file.
+
+* The bot will read the text file.
+  
+* It will automatically input the information into SAP.
+  
+* Disclaimer: The code must be adjusted to fit your SAP version.
