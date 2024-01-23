@@ -8,11 +8,11 @@
 
 # 👨‍🌾 CALLING FUNCTION
 
-* Put the kbis and rib in the virtual env. Make sure that their names are 'kbis.pdf' and 'rib.pdf'.
+* Put the registration number in the following code
 
 * Run the script
 
-* The .txt file is generated
+* The .txt file is generated with the info
 
 # 🚜 Call mass loading functions by siren searchs
 
