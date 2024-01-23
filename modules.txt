@@ -1,0 +1,15 @@
+subprocess
+openpyxl
+selenium
+IPython
+azure
+azure-ai-formrecognizer
+urllib3
+fuzzywuzzy
+schwifty
+PyPDF2
+python-poppler
+pdf2imaeg
+opencv-python
+pytesseract
+tesseract-ocr
